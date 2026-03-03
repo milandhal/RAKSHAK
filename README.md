@@ -1,5 +1,6 @@
-🚘 Advanced Lane Assist System (ALAS)
+🚘RAKSHAK an Advanced Lane Assist System (ALAS)
 Real-Time Lane Detection & Road Curvature Estimation
+
 📌 Overview
 
 The Advanced Lane Assist System (ALAS) is a computer vision-based driver assistance system that detects lane boundaries in real time using classical image processing techniques.
