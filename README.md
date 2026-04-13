@@ -7,6 +7,13 @@ The Advanced Lane Assist System (ALAS) is a computer vision-based driver assista
 
 The system performs camera calibration, perspective transformation, lane pixel detection, curvature estimation, and overlays lane guidance information on video frames — simulating features found in modern ADAS (Advanced Driver Assistance Systems).
 
+## Project Demo
+## Click to Watch
+
+[![Watch Demo]()](https://drive.google.com/file/d/1Qg2zoVYQoWEw1wWz8FxrLNMFqPdbqOkX/view?usp=drive_link)
+
+
+
 This project demonstrates end-to-end pipeline development for intelligent automotive vision systems.
 
 🎯 Key Features
